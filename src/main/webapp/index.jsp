@@ -68,8 +68,8 @@
 <body>
     <div class="container">
         <div class="content">
-            <h1>Hello ... ! <span class="name">AWS & Devops Enthusiast !</span></h1>
-            <p>My name is <span class="highlighted-name">Laxmikanta</span>, I am an <span class="trainer">AWS and DevOps Engineer</span>.</p>
+            <h1>Hello ... ! <span class="name">AWS & Devops!</span></h1>
+            <p>My name is <span class="highlighted-name">Nirupriya</span>, I am an <span class="trainer">AWS and DevOps Engineer</span>.</p>
             <p class="curriculum"><em>My Recommended curriculum to become a DevOps Engineer:</em></p>
             <p><strong>AWS Concepts:</strong> Introduction to Cloud, Cloud Service Providers, AWS Global Infrastructure, S3, EFS, EC2, Auto Scaling, Load Balancers, VPC, IAM, RDS, Dynamo DB, SNS, Cloud Watch, LighSail, Cloud Trial, SQS, SES, Route 53, SnowBall, Elastic BeanStalk, Cloud Formation</p>
             <p><strong>Linux and Shell Scripting</strong></p>
@@ -82,17 +82,14 @@
                     <button class="docker-button"><i class="fab fa-docker"></i> Docker - Basics to Brilliance</button>
                 </a>
                 <a href="https://www.linkedin.com/in/laxmikanta-giri-87024216b/" target="_blank">
-                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Laxmikanta - LinkedIn</button>
+                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Nirupriya - LinkedIn</button>
                 </a>
             </p>
         </div>
     </div>
-    <div class="image-container">
-        <!-- Image at the bottom right of the page -->
-        <img src="https://media.licdn.com/dms/image/C5603AQGSx15Yzx8cRQ/profile-displayphoto-shrink_400_400/0/1620132378832?e=1727308800&v=beta&t=jSjmAQYndQ0hZjcvgEU2uL0ifDCAuftJ9dEo7NY1zBU" alt="Profile Image" class="profile-image">
-    </div>
+
     <div class="copyright">
-        <span class="icon">&copy;</span> Laxmikanta
+        <span class="icon">&copy;</span> Nirupriya
     </div>
 </body>
 </html>
